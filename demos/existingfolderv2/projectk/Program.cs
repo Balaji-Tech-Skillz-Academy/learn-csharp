@@ -1,3 +1,2 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, demo2 +");
-#error version
+Console.WriteLine("Hello, World!");
